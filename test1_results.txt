@@ -1,0 +1,1226 @@
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 400.perlbench-41B
+Resultados de la simulación
+1491,0.149%,1283,0.145%,208,0.187%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 454.calculix-104B
+Resultados de la simulación
+553,0.055%,491,0.049%,62,1.007%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 401.bzip2-226B
+Resultados de la simulación
+25011,2.501%,24841,2.744%,170,0.244%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 456.hmmer-191B
+Resultados de la simulación
+12270,1.227%,10346,1.147%,1924,2.237%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 403.gcc-16B
+Resultados de la simulación
+27551,2.755%,23010,2.554%,4541,6.363%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 458.sjeng-1088B
+Resultados de la simulación
+41492,4.149%,38285,4.220%,3207,6.263%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 410.bwaves-1963B
+Resultados de la simulación
+55322,5.532%,54432,5.890%,890,4.320%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 459.GemsFDTD-1169B
+Resultados de la simulación
+23622,2.362%,23622,2.554%,0,0.000%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 416.gamess-875B
+Resultados de la simulación
+40160,4.016%,31756,3.510%,8404,15.235%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 462.libquantum-1343B
+Resultados de la simulación
+18197,1.820%,18197,1.861%,0,0.000%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 429.mcf-184B
+Resultados de la simulación
+113239,11.324%,112839,12.822%,400,5.967%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 464.h264ref-30B
+Resultados de la simulación
+3847,0.385%,3165,0.324%,682,3.384%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 433.milc-127B
+Resultados de la simulación
+23840,2.384%,19431,2.065%,4409,12.539%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 465.tonto-1769B
+Resultados de la simulación
+28868,2.887%,20289,2.227%,8579,14.292%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 435.gromacs-111B
+Resultados de la simulación
+7937,0.794%,7771,0.873%,166,0.163%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 470.lbm-1274B
+Resultados de la simulación
+47784,4.778%,17017,1.879%,30767,66.143%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 436.cactusADM-1804B
+Resultados de la simulación
+123332,12.333%,112938,13.829%,10394,17.322%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 471.omnetpp-188B
+Resultados de la simulación
+95891,9.589%,88706,11.304%,7185,6.019%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 437.leslie3d-134B
+Resultados de la simulación
+4500,0.450%,2544,0.259%,1956,14.564%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 473.astar-153B
+Resultados de la simulación
+5704,0.570%,5001,0.549%,703,0.836%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 444.namd-120B
+Resultados de la simulación
+22810,2.281%,22430,2.359%,380,1.442%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 481.wrf-1170B
+Resultados de la simulación
+6982,0.698%,5819,0.600%,1163,5.115%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 445.gobmk-17B
+Resultados de la simulación
+68746,6.875%,58101,7.006%,10645,10.436%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 482.sphinx3-1100B
+Resultados de la simulación
+19317,1.932%,18720,1.932%,597,5.164%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 450.soplex-247B
+Resultados de la simulación
+80671,8.067%,71682,8.137%,8989,23.436%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 483.xalancbmk-127B
+Resultados de la simulación
+26244,2.624%,26186,2.743%,58,0.306%
+
+
+Cache Size: 8
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 453.povray-887B
+Resultados de la simulación
+43558,4.356%,39656,4.576%,3902,4.347%
+
+
+
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 400.perlbench-41B
+Resultados de la simulación
+527,0.053%,491,0.055%,36,0.032%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 454.calculix-104B
+Resultados de la simulación
+500,0.050%,447,0.045%,53,0.860%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 401.bzip2-226B
+Resultados de la simulación
+21932,2.193%,21834,2.404%,98,0.140%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 456.hmmer-191B
+Resultados de la simulación
+10009,1.001%,8202,0.907%,1807,2.098%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 403.gcc-16B
+Resultados de la simulación
+24062,2.406%,19603,2.167%,4459,6.241%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 458.sjeng-1088B
+Resultados de la simulación
+24168,2.417%,22175,2.401%,1993,3.802%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 410.bwaves-1963B
+Resultados de la simulación
+25122,2.512%,24549,2.573%,573,2.739%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 459.GemsFDTD-1169B
+Resultados de la simulación
+19513,1.951%,19513,2.100%,0,0.000%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 416.gamess-875B
+Resultados de la simulación
+24064,2.406%,18356,1.999%,5708,9.865%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 462.libquantum-1343B
+Resultados de la simulación
+17921,1.792%,17921,1.832%,0,0.000%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 429.mcf-184B
+Resultados de la simulación
+111192,11.119%,110887,12.572%,305,4.486%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 464.h264ref-30B
+Resultados de la simulación
+806,0.081%,420,0.043%,386,1.888%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 433.milc-127B
+Resultados de la simulación
+22365,2.236%,17966,1.906%,4399,12.507%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 465.tonto-1769B
+Resultados de la simulación
+28499,2.850%,19922,2.186%,8577,14.288%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 435.gromacs-111B
+Resultados de la simulación
+5799,0.580%,5731,0.642%,68,0.067%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 470.lbm-1274B
+Resultados de la simulación
+41136,4.114%,10563,1.158%,30573,65.453%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 436.cactusADM-1804B
+Resultados de la simulación
+67151,6.715%,62683,7.231%,4468,6.777%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 471.omnetpp-188B
+Resultados de la simulación
+78609,7.861%,72905,9.107%,5704,4.720%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 437.leslie3d-134B
+Resultados de la simulación
+4218,0.422%,2262,0.230%,1956,14.564%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 473.astar-153B
+Resultados de la simulación
+5045,0.504%,4465,0.490%,580,0.689%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 444.namd-120B
+Resultados de la simulación
+15336,1.534%,15012,1.567%,324,1.227%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 481.wrf-1170B
+Resultados de la simulación
+5614,0.561%,4651,0.479%,963,4.198%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 445.gobmk-17B
+Resultados de la simulación
+39190,3.919%,32601,3.814%,6589,6.213%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 482.sphinx3-1100B
+Resultados de la simulación
+15222,1.522%,14906,1.532%,316,2.669%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 450.soplex-247B
+Resultados de la simulación
+74663,7.466%,66021,7.446%,8642,22.330%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 483.xalancbmk-127B
+Resultados de la simulación
+23054,2.305%,23040,2.405%,14,0.074%
+
+
+Cache Size: 16
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 453.povray-887B
+Resultados de la simulación
+34111,3.411%,31484,3.599%,2627,2.885%
+
+
+
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 400.perlbench-41B
+Resultados de la simulación
+241,0.024%,219,0.025%,22,0.020%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 454.calculix-104B
+Resultados de la simulación
+428,0.043%,403,0.041%,25,0.404%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 401.bzip2-226B
+Resultados de la simulación
+18999,1.900%,18939,2.079%,60,0.086%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 456.hmmer-191B
+Resultados de la simulación
+4830,0.483%,3102,0.341%,1728,2.004%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 403.gcc-16B
+Resultados de la simulación
+22485,2.248%,18066,1.994%,4419,6.182%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 458.sjeng-1088B
+Resultados de la simulación
+9126,0.913%,7823,0.834%,1303,2.453%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 410.bwaves-1963B
+Resultados de la simulación
+16378,1.638%,15953,1.657%,425,2.017%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 459.GemsFDTD-1169B
+Resultados de la simulación
+18209,1.821%,18209,1.957%,0,0.000%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 416.gamess-875B
+Resultados de la simulación
+13492,1.349%,10308,1.113%,3184,5.273%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 462.libquantum-1343B
+Resultados de la simulación
+17785,1.778%,17785,1.818%,0,0.000%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 429.mcf-184B
+Resultados de la simulación
+107758,10.776%,107525,12.145%,233,3.391%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 464.h264ref-30B
+Resultados de la simulación
+610,0.061%,227,0.023%,383,1.873%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 433.milc-127B
+Resultados de la simulación
+22205,2.220%,17809,1.889%,4396,12.498%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 465.tonto-1769B
+Resultados de la simulación
+28316,2.832%,19739,2.165%,8577,14.288%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 435.gromacs-111B
+Resultados de la simulación
+4773,0.477%,4746,0.531%,27,0.026%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 470.lbm-1274B
+Resultados de la simulación
+38378,3.838%,7902,0.864%,30476,65.110%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 436.cactusADM-1804B
+Resultados de la simulación
+6485,0.648%,5972,0.647%,513,0.734%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 471.omnetpp-188B
+Resultados de la simulación
+37818,3.782%,34393,4.099%,3425,2.782%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 437.leslie3d-134B
+Resultados de la simulación
+4084,0.408%,2128,0.217%,1956,14.564%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 473.astar-153B
+Resultados de la simulación
+4651,0.465%,4176,0.458%,475,0.563%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 444.namd-120B
+Resultados de la simulación
+5336,0.534%,5126,0.529%,210,0.792%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 481.wrf-1170B
+Resultados de la simulación
+4204,0.420%,3734,0.384%,470,2.006%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 445.gobmk-17B
+Resultados de la simulación
+15040,1.504%,11761,1.343%,3279,2.998%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 482.sphinx3-1100B
+Resultados de la simulación
+13211,1.321%,13002,1.334%,209,1.749%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 450.soplex-247B
+Resultados de la simulación
+69106,6.911%,60821,6.820%,8285,21.212%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 483.xalancbmk-127B
+Resultados de la simulación
+21764,2.176%,21761,2.269%,3,0.016%
+
+
+Cache Size: 32
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 453.povray-887B
+Resultados de la simulación
+27060,2.706%,25090,2.847%,1970,2.148%
+
+
+
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 400.perlbench-41B
+Resultados de la simulación
+234,0.023%,212,0.024%,22,0.020%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 454.calculix-104B
+Resultados de la simulación
+418,0.042%,398,0.040%,20,0.323%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 401.bzip2-226B
+Resultados de la simulación
+13648,1.365%,13603,1.484%,45,0.064%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 456.hmmer-191B
+Resultados de la simulación
+3777,0.378%,2067,0.227%,1710,1.983%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 403.gcc-16B
+Resultados de la simulación
+21853,2.185%,17455,1.925%,4398,6.151%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 458.sjeng-1088B
+Resultados de la simulación
+2439,0.244%,1915,0.203%,524,0.972%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 410.bwaves-1963B
+Resultados de la simulación
+13698,1.370%,13340,1.382%,358,1.694%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 459.GemsFDTD-1169B
+Resultados de la simulación
+17979,1.798%,17979,1.932%,0,0.000%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 416.gamess-875B
+Resultados de la simulación
+4107,0.411%,3243,0.348%,864,1.378%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 462.libquantum-1343B
+Resultados de la simulación
+17717,1.772%,17717,1.811%,0,0.000%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 429.mcf-184B
+Resultados de la simulación
+101759,10.176%,101567,11.395%,192,2.778%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 464.h264ref-30B
+Resultados de la simulación
+555,0.056%,174,0.018%,381,1.863%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 433.milc-127B
+Resultados de la simulación
+22139,2.214%,17743,1.882%,4396,12.498%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 465.tonto-1769B
+Resultados de la simulación
+28222,2.822%,19645,2.155%,8577,14.288%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 435.gromacs-111B
+Resultados de la simulación
+3959,0.396%,3945,0.441%,14,0.014%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 470.lbm-1274B
+Resultados de la simulación
+37134,3.713%,6721,0.734%,30413,64.888%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 436.cactusADM-1804B
+Resultados de la simulación
+4482,0.448%,4117,0.445%,365,0.521%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 471.omnetpp-188B
+Resultados de la simulación
+23017,2.302%,20177,2.365%,2840,2.296%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 437.leslie3d-134B
+Resultados de la simulación
+4020,0.402%,2064,0.210%,1956,14.564%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 473.astar-153B
+Resultados de la simulación
+3831,0.383%,3482,0.382%,349,0.413%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 444.namd-120B
+Resultados de la simulación
+1403,0.140%,1358,0.140%,45,0.169%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 481.wrf-1170B
+Resultados de la simulación
+3367,0.337%,3037,0.312%,330,1.400%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 445.gobmk-17B
+Resultados de la simulación
+4617,0.462%,3308,0.374%,1309,1.176%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 482.sphinx3-1100B
+Resultados de la simulación
+12088,1.209%,11922,1.222%,166,1.384%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 450.soplex-247B
+Resultados de la simulación
+62962,6.296%,55105,6.139%,7857,19.898%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 483.xalancbmk-127B
+Resultados de la simulación
+21197,2.120%,21193,2.208%,4,0.021%
+
+
+Cache Size: 64
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 453.povray-887B
+Resultados de la simulación
+14473,1.447%,13357,1.496%,1116,1.206%
+
+
+
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 400.perlbench-41B
+Resultados de la simulación
+234,0.023%,212,0.024%,22,0.020%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 454.calculix-104B
+Resultados de la simulación
+418,0.042%,398,0.040%,20,0.323%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 401.bzip2-226B
+Resultados de la simulación
+4124,0.412%,4104,0.443%,20,0.029%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 456.hmmer-191B
+Resultados de la simulación
+3162,0.316%,1467,0.161%,1695,1.965%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 403.gcc-16B
+Resultados de la simulación
+21594,2.159%,17205,1.897%,4389,6.137%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 458.sjeng-1088B
+Resultados de la simulación
+1286,0.129%,1029,0.109%,257,0.475%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 410.bwaves-1963B
+Resultados de la simulación
+11990,1.199%,11696,1.210%,294,1.387%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 459.GemsFDTD-1169B
+Resultados de la simulación
+17868,1.787%,17868,1.920%,0,0.000%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 416.gamess-875B
+Resultados de la simulación
+1277,0.128%,1107,0.118%,170,0.268%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 462.libquantum-1343B
+Resultados de la simulación
+17681,1.768%,17681,1.807%,0,0.000%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 429.mcf-184B
+Resultados de la simulación
+95057,9.506%,94878,10.565%,179,2.585%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 464.h264ref-30B
+Resultados de la simulación
+555,0.056%,174,0.018%,381,1.863%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 433.milc-127B
+Resultados de la simulación
+22108,2.211%,17712,1.879%,4396,12.498%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 465.tonto-1769B
+Resultados de la simulación
+28177,2.818%,19600,2.150%,8577,14.288%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 435.gromacs-111B
+Resultados de la simulación
+3186,0.319%,3176,0.355%,10,0.010%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 470.lbm-1274B
+Resultados de la simulación
+24696,2.470%,5952,0.649%,18744,32.020%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 436.cactusADM-1804B
+Resultados de la simulación
+3028,0.303%,2710,0.292%,318,0.454%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 471.omnetpp-188B
+Resultados de la simulación
+18706,1.871%,16102,1.878%,2604,2.101%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 437.leslie3d-134B
+Resultados de la simulación
+3988,0.399%,2032,0.207%,1956,14.564%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 473.astar-153B
+Resultados de la simulación
+2922,0.292%,2659,0.291%,263,0.311%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 444.namd-120B
+Resultados de la simulación
+991,0.099%,975,0.100%,16,0.060%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 481.wrf-1170B
+Resultados de la simulación
+3028,0.303%,2804,0.288%,224,0.946%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 445.gobmk-17B
+Resultados de la simulación
+1464,0.146%,1029,0.116%,435,0.388%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 482.sphinx3-1100B
+Resultados de la simulación
+11175,1.117%,11026,1.129%,149,1.241%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 450.soplex-247B
+Resultados de la simulación
+56454,5.645%,49199,5.446%,7255,18.097%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 483.xalancbmk-127B
+Resultados de la simulación
+20914,2.091%,20913,2.178%,1,0.005%
+
+
+Cache Size: 128
+Associativity: 8
+Block Size: 64
+Replacement Policy: l
+Trace: 453.povray-887B
+Resultados de la simulación
+3893,0.389%,3583,0.397%,310,0.332%
+
